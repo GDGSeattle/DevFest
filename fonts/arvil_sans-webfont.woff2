@@ -1,0 +1,36 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="viewport" content="width=device-width"/>
+<title>International Developer Education and Advocacy Alliance (IDEAA)</title>
+<meta name="Title" content="International Developer Education and Advocacy Alliance (IDEAA)" />
+<meta name="Description" content="The IDEAA is an alliance and partnership of industry thought leaders who have common objectives within the mobile development community." />
+
+<script type="text/javascript" src="scripts/jquery.min.js"></script>
+<link rel="stylesheet" type="text/css" href="ideaa.css"/>
+
+<!-- favicons o plenty -->
+<link rel="shortcut icon" href="favicon/favicon.ico">
+<link rel="icon" type="image/png" href="favicon/favicon-196x196.png" sizes="196x196">
+<link rel="icon" type="image/png" href="favicon/favicon-160x160.png" sizes="160x160">
+<link rel="icon" type="image/png" href="favicon/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="favicon/favicon-16x16.png" sizes="16x16">
+<link rel="icon" type="image/png" href="favicon/favicon-32x32.png" sizes="32x32">
+
+</head>
+
+<body>
+<div id="content">
+	<img class="left" src="images/code_left.svg" alt="Left Code Graphic"/>
+	<img class="right" src="images/code_right.svg" alt="Right Code Graphic"/>
+	<div class="header">
+		<img src="images/header_logo.png" alt="ideaa logo" title="IDEAA"/><br/>
+		WHOOPS!
+	</div>
+	<div class="subheader">Whoops!  We're sorry!  You have tried to access the Vegetarian menu, which is not available.  Please <a href="index.html">Return to the Grill</a> with the rest of the omnivores.</div>
+</div>
+</body>
+
+</html>
